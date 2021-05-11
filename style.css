@@ -1,0 +1,52 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 2px 2px 5px pink;
+  text-transform: capitalize;
+  text-decoration-color: pink;
+  text-decoration-style: dotted;
+}
+
+h2 {
+  padding-top: 100px;
+  text-align: center;
+  text-indent: 50px;
+  color: navy;
+}
+
+h3 {
+  color: purple;
+}
+
+h6 {
+  text-align: center;
+  font-style: italic;
+  font-family: cursive;
+  color: blue;
+
+}
+h6:hover
+{
+  background-color: White;
+  font-size: 150%;
+}
+.first{
+  text-align: center;
+  padding-top: 100Px;
+}
+
+.red {
+  background-image: url(images/Study1.webp);
+}
+
+.body {
+  background-color: #c89666;
+}
+
+.Font {
+
+  text-align: center;
+  font-size: 2em;
+  color: lightGrey;
+  padding: 5px 4px 4px 5px;
+}
